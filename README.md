@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📕 Latest Blog Post
+A dot cost me 6,000 rupees!
+I created 3D art daily for 50 days!
+Top free fonts for headings!
+Buttons — Rounded Corners or Sharp?
+
+Languages and Tools:
+HTML5CSS3PythonCC++gitGitHub
+
+
+Softwares:
+Visual Studio Code
+
+XDIllustratorPhotoshopPhotoshop
