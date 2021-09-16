@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 😄 Pronouns: she/her
 
 ⚡ Fun fact: I cut my own hair.
--->
 
-#### 📕 Check out my Blog posts
+📕 Check out my Blog posts
 - [DEV](https://dev.to/apigeoneer)
