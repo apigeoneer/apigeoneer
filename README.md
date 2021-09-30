@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 👉👈 Connect with Me
 
-<img src="https://user-images.githubusercontent.com/43718257/135411437-c1fde941-3ed8-410a-b43b-bb0095acf749.png" width=25 height=25>
-<img src="https://user-images.githubusercontent.com/43718257/135411447-7a44a124-4bf2-4f71-a1cf-383155505f2e.png" width=25 height=25>
+<img src="https://user-images.githubusercontent.com/43718257/135411437-c1fde941-3ed8-410a-b43b-bb0095acf749.png" width=25 height=25> <img src="https://user-images.githubusercontent.com/43718257/135411447-7a44a124-4bf2-4f71-a1cf-383155505f2e.png" width=25 height=25>
 
 
