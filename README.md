@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - [Share_Location_Reminder Android App 📍🔔](https://github.com/apigeoneer/Share_Location_Reminder)
 - [DSA-with-Leetcode 📈🤸🏽‍♂️](https://github.com/apigeoneer/dsa-with-leetcode-for-interview-prep)
       
-🌱 I’m currently learning Android with Kotlin, Flutter & DSA
+🌱 I’m currently learning Android with Kotlin, React & DSA
 
 👯 I’m looking to collaborate on anything cool, esp. open-source projects
 <!--
