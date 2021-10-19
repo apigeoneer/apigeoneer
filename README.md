@@ -13,7 +13,7 @@ Here are some ideas to get you started:
       
 🌱 I’m currently learning React & DSA
 
-👯 I’m looking to collaborate on anything cool, esp. open-source projects
+👯 I’m looking to collaborate on anything cool, esp. open-source Android projects
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
