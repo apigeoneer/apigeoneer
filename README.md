@@ -12,7 +12,7 @@ Here are some ideas to get you started:
       
 🌱 I’m currently learning Angular & Ionic
 
-👯 I’m looking to collaborate on anything cool, esp. open-source Android projects
+👯 I’m looking to collaborate on anything cool, esp. open-source full stack projects
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
