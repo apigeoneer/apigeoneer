@@ -7,11 +7,10 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on
-- [Mellow_Used_Book_Shop Android App](https://github.com/apigeoneer/Mellow_Used_Book_Shop)
-- [Share_Location_Reminder Android App 📍🔔](https://github.com/apigeoneer/Share_Location_Reminder)
+- [Sunbird](https://github.com/apigeoneer/SunbirdEd-mobile-app)
 
       
-🌱 I’m currently learning React & DSA
+🌱 I’m currently learning Angular & Ionic
 
 👯 I’m looking to collaborate on anything cool, esp. open-source Android projects
 <!--
