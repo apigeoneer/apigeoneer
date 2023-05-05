@@ -7,12 +7,11 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on
-- [Sunbird](https://github.com/apigeoneer/SunbirdEd-mobile-app)
+- Personal projects
+ 
+🌱 I’m currently learning App development in Flutter.
 
-      
-🌱 I’m currently learning Angular & Ionic
-
-👯 I’m looking to collaborate on anything cool, esp. open-source full stack projects
+👯 I’m looking to collaborate on anything cool, esp. open-source Flutter & Dart projects
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -20,10 +19,7 @@ Here are some ideas to get you started:
 -->
 😄 Pronouns: she/her
 
-⚡ Fun fact: I cut my own hair
-
 📕 Check out my Blog posts
-- [DEV](https://dev.to/apigeoneer)
 - [Hashnode](https://chitranshisrivastava.hashnode.dev/)
 
 👉👈
